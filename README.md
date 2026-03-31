@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hi, I'm Kovvuri Sai Mohan Reddy
+👋 Hi, I'm Kovvuri Sai Mohan Reddy
 
 🎓 Electronics & Computer Engineering Student  
 💡 Passionate about AI, Machine Learning, and Embedded Systems  
@@ -43,7 +43,6 @@
 
 ---
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
