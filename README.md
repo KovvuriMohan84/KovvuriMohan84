@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hi, I'm Sai Mohan Reddy
+## 👋 Hi, I'm Kovvuri Sai Mohan Reddy
 
 🎓 Electronics & Computer Engineering Student  
 💡 Passionate about AI, Machine Learning, and Embedded Systems  
