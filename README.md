@@ -1,7 +1,7 @@
 # 💫 About Me:
 ## 👋 Hi, I'm Sai Mohan Reddy
 
-🎓 Electronics & Communication Engineering Student  
+🎓 Electronics & Computer Engineering Student  
 💡 Passionate about AI, Machine Learning, and Embedded Systems  
 🚀 Currently working on projects in:
 - Machine Learning & Deep Learning
