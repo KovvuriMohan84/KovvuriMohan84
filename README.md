@@ -74,5 +74,3 @@ To build impactful AI-driven systems that improve real-world infrastructure, esp
 
 ---
 
-### ✨ Fun Fact:
-I enjoy building systems that bridge the gap between software intelligence and real-world impact 🚀
